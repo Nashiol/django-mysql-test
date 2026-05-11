@@ -1,0 +1,1 @@
+Project to test connection string for MySQL database.
